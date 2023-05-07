@@ -1,4 +1,4 @@
-# Yandex Algorithm Training
+<h1 align="center">Yandex Algorithm Training</h1>
 
 <p align="justify">Домашние задания к тренировкам Яндекса по алгоритмам 1.0. Содержание:</p>
 <ul>
